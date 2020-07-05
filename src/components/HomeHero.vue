@@ -7,7 +7,7 @@
             <div
                 class="display-4 font-weight-black white--text text-xs-center mb-3"
             >
-                FOR YOUR BELLY
+                FOR YOUR HEALTH
             </div>
             <div class="display-1 font-weight-bold white--text text-xs-center">
                 Finally be a foodie at home with fresh, chef-prepared meals
