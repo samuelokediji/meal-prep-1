@@ -63,8 +63,8 @@ To ensure that I am not the only one who gets to relish this delicious love of m
 <li>Add half a seasoning cube, curry and thyme.</li> 
 <li>Next, add the green, red and maybe yellow  peppers and stir fry for 2 minutes.</li> 
 <li> While stir frying, on another hob, place a pot of water, add one salt and a few drops of vegetable oil and allow to boil while you are busy with the stir fry.</li>
-P.s: Also, you can wait till you are done stir-frying before putting your pot of water for the spaghetti on the hob (in that way you can do all the things you need to do one step at a time).
-Transfer the vegetables (pepper) to a plate, and in that same pan add the stir fry chicken, it is important that the chicken doesn’t have droplets of water (you can sieve it for a while). 
+<li>P.s: Also, you can wait till you are done stir-frying before putting your pot of water for the spaghetti on the hob (in that way you can do all the things you need to do one step at a time).
+Transfer the vegetables (pepper) to a plate, and in that same pan add the stir fry chicken, it is important that the chicken doesn’t have droplets of water (you can sieve it for a while). </li>
 <li>Go back to the pot of boiling water and add your spaghetti to start cooking.</li>
 
                     </p>
