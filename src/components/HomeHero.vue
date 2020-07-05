@@ -10,8 +10,7 @@
                 FOR YOUR HEALTH
             </div>
             <div class="display-1 font-weight-bold white--text text-xs-center">
-                Finally be a foodie at home with fresh, chef-prepared meals
-                delivered daily to your door steps by Foodie expert Sam.
+                Finally be a foodie at home with fresh, chef-prepared meals by chef sam
             </div>
             <v-btn fab class="mt-5 brown darken-4">
                 <v-icon large color="white">expand_more</v-icon>
