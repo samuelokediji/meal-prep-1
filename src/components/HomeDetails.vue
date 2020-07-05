@@ -8,32 +8,38 @@
                 >
                 <v-flex>
                     <div class="headline mt-3 brown--text font-weight-bold">
-                        Rice, Chicken and Stew sauce
-                    </div>
+                       STIR-FRY SPAGHETTI                  
+                         </div>
                     <p class="subheading mt-3">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Cras pulvinar risus quis mauris interdum, in euismod
-                        nibh pretium. Etiam pulvinar tincidunt dapibus. Quisque
-                        sollicitudin, mauris a consequat consectetur, turpis
-                       
+                      
+                       Have you ever heard of ‘love at first taste’? That was exactly what I felt the first day I got a taste of stir -fry spaghetti. Right there in my small office space, I was literally transported into a whole new universe filled with an abundance of  mouth-watering goodness.
+
+I know we all eat pasta and by pasta, I mean good old-fashioned spaghetti, like it practically makes up pretty much 50% of our meals with different variations like macaroni, bucatini, penne, among others. We also have the jollof, fried or plain options, but the stir-fried method comes out top and the stir-fry chicken mixed with beef variant is my absolute fave. (You can call me a hopeless foodie, I don't really mind).
+
+To ensure that I am not the only one who gets to relish this delicious love of mine, I have decided to share the recipe with you as well as a short video all from Sisi Yemmi
+
                     </p>
                 </v-flex>
                 <v-flex>
                     <div class="headline mt-3 brown--text font-weight-bold">
-                        Bread and Ewa Goin
+                       INGREDIENTS
                     </div>
                     <p class="subheading mt-3">
-                        3 cups Black Eyed Beans
-                        
-                        300ml Palm Oil
-
-8-10 Pieces Dried Bell Peppers (Tatsahe  gbigbe)
-
-1 Medium Size Red Onion
-
-2-3 Pieces Cameroon Pepper
-
-3 Heaped Tablespoons Dried Pepper Seeds
+                       
+                 Stir Fry Chicken (Washed and drained) p.s:. You can also add strips of beef (the more the merrier).
+                        1 Green Bell Pepper (Sliced)
+                    1 Red Bell Pepper (Sliced) p.s: add 1 Yellow Bell Pepper (Sliced) for that pop of colour. 
+                    1 Onion (Sliced)
+                    1 tsp Ginger (Chopped)
+                    1 tsp Garlic (Chopped)
+                    1/4 Cup Chicken stock
+                    1 Seasoning Cube
+                    1 tsp salt
+                    1 tsp Curry powder
+                    1 tsp Thyme
+                    2 tsp heap of Shitto
+                    1/2 a pack of really thin Spaghetti
+                    3 tbs Vegetable Oil
 
  
                     </p>
@@ -41,54 +47,26 @@
                     <p class="subheading mt-3">
                         1 Tablespoon Ground Pepper (Atagungun)
 
-1/2 Teaspoon Minced Ginger
-
-2 Tablespoons Dried whole crayfish or 1/2 cup smoked fish(optional)
-
-1 Maggi Crayfish (optional)
-
-Salt to taste
-
-WATCH EWA AGOYIN
                     </p>
 
                     <p class="subheading mt-3">
-                        Aenean erat metus, imperdiet eget nisl laoreet,
-                        venenatis ultricies ante. In interdum ante vel dictum
-                        ullamcorper. Pellentesque habitant morbi tristique
-                        senectus et netus et malesuada fames ac turpis egestas.
-                        Integer sit amet gravida diam. Aliquam in tempor metus.
-                        Fusce pellentesque pharetra sem, et luctus justo tempor
-                        dictum. Ut feugiat est sed tristique egestas. Nullam
-                        posuere a nunc in blandit. Vestibulum ante ipsum primis
-                        in faucibus orci luctus et ultrices posuere cubilia
-                        Curae; Suspendisse laoreet ultrices eros, nec malesuada
-                        enim semper sit amet. Maecenas efficitur consectetur
-                        accumsan. Etiam in aliquam turpis, ut pharetra nulla.
-                        Vestibulum malesuada, nulla id elementum cursus, nibh
-                        dui rhoncus felis, suscipit mattis felis enim sed ex.
-                        Pellentesque scelerisque aliquam lorem, vel mattis nibh
-                        tincidunt ac. Suspendisse ac nibh sit amet lacus
-                        ullamcorper maximus.
+                        
                     </p>
                 </v-flex>
                 <v-flex>
                     <div class="headline mt-3 brown--text font-weight-bold">
-                        Apu and Okro draw soup with shrimps
-                    </div>
+                                PREPARATION                    
+                                </div>
                     <p class="subheading mt-3">
-                        Nullam nec massa eu est fringilla lobortis. Praesent in
-                        enim in justo blandit varius. Cras placerat arcu in
-                        sapien rhoncus aliquet. Sed interdum tortor et tincidunt
-                        condimentum. Etiam consequat mi leo, in suscipit odio
-                        scelerisque molestie. Nam et purus consequat, iaculis
-                        augue vel, sagittis ligula. Vestibulum aliquet vulputate
-                        erat. Phasellus id mauris mauris. Nunc a maximus dolor.
-                        Curabitur ut vestibulum arcu. Curabitur non lacus justo.
-                        Cras varius a magna in semper. Nulla eros ante,
-                        consectetur faucibus sapien eu, rhoncus imperdiet dui.
-                        Sed viverra iaculis nunc, id pulvinar massa egestas
-                        vitae.
+                       <li> Use a frying pan most preferably a non-stick frying pan, heat up 2 tbs of vegetable oil. </li>
+<li>Add onion, ginger and garlic, and stir fry on high heat for about 2 minutes.</li> 
+<li>Add half a seasoning cube, curry and thyme.</li> 
+<li>Next, add the green, red and maybe yellow  peppers and stir fry for 2 minutes.</li> 
+<li> While stir frying, on another hob, place a pot of water, add one salt and a few drops of vegetable oil and allow to boil while you are busy with the stir fry.</li>
+P.s: Also, you can wait till you are done stir-frying before putting your pot of water for the spaghetti on the hob (in that way you can do all the things you need to do one step at a time).
+Transfer the vegetables (pepper) to a plate, and in that same pan add the stir fry chicken, it is important that the chicken doesn’t have droplets of water (you can sieve it for a while). 
+<li>Go back to the pot of boiling water and add your spaghetti to start cooking.</li>
+
                     </p>
                 </v-flex>
             </v-layout>
