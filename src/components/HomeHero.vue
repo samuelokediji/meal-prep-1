@@ -27,7 +27,7 @@ export default {
 
 <style scoped>
 .home-hero {
-    background: url('http://source.unsplash.com/0BhSKStVtdM');
+    background: url('https://res.cloudinary.com/unitech-global-resource/image/upload/v1593993466/meal-prep_hgls9s.jpg');
     background-size: cover;
     width: 100%;
     height: 100%;
