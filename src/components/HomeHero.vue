@@ -1,13 +1,12 @@
 <template>
     <v-container fluid fill-height class="home-hero" style="max-height: 100vh;">
         <v-layout justify-center align-center column pa-5>
-            <div class="display-4 font-weight-black white--text text-xs-center">
+            <div class="display-2 font-weight-black white--text text-xs-center">
                 HEALTHY MEALS
             </div>
             <div
                 class="display-4 font-weight-black white--text text-xs-center mb-3"
             >
-                FOR YOUR HEALTH
             </div>
             <div class="display-1 font-weight-bold white--text text-xs-center">
                 Finally be a foodie at home with fresh, chef-prepared meals by chef sam
